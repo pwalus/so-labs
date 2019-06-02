@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug 
+*.png
+*.txt
+*.o
+*.out
